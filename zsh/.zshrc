@@ -534,7 +534,7 @@ export VISUAL=nvim
 
 
 # Added by Antigravity CLI installer
-export PATH="/home/terifixal/.local/bin:$PATH"
+export PATH="~/.local/bin:$PATH"
 
 # opencode
 export PATH=/home/terifixal/.opencode/bin:$PATH
